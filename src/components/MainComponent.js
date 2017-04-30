@@ -7,8 +7,13 @@ require('styles//Main.css');
 class MainComponent extends React.Component {
   render() {
     return (
-      <div className="main-component">
-        Please edit src/components///MainComponent.js to update this component!
+      <div>
+        <main>
+          <div className="row text-center">
+            <div className="col-sm-6 experience">
+            </div>
+          </div>
+        </main>
       </div>
     );
   }
