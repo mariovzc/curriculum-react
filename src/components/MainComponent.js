@@ -2,6 +2,7 @@
 
 import React from 'react';
 import ExperienceComponent from './ExperienceComponent';
+import EducationComponent from './EducationComponent';
 
 require('styles//Main.css');
 
@@ -14,6 +15,7 @@ class MainComponent extends React.Component {
             <br/>
             <div className="col-sm-6 experience">
               <ExperienceComponent/>
+              <EducationComponent/>
             </div>
             <div className="col-sm-6 skills">
             </div>
