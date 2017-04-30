@@ -1,6 +1,7 @@
 'use strict';
 
 import React from 'react';
+import ExperienceComponent from './ExperienceComponent';
 
 require('styles//Main.css');
 
@@ -12,6 +13,7 @@ class MainComponent extends React.Component {
           <div className="row text-center">
             <br/>
             <div className="col-sm-6 experience">
+              <ExperienceComponent/>
             </div>
             <div className="col-sm-6 skills">
             </div>
