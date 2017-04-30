@@ -10,7 +10,10 @@ class MainComponent extends React.Component {
       <div>
         <main>
           <div className="row text-center">
+            <br/>
             <div className="col-sm-6 experience">
+            </div>
+            <div className="col-sm-6 skills">
             </div>
           </div>
         </main>
