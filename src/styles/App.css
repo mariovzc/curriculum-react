@@ -15,30 +15,6 @@ h4{
   color: #57585A;
 }
 /* END GENERAL*/
-
-/*MAIN*/
-.experiences{
-  margin-top: 40px;
-}
-.progress-height{
-  height: 30px;
-}
-.skill-container{
-  margin-top: 10px;
-}
-.blue-sub-bg{
-  background-color: #12628B;
-}
-.blue-bg{
-  background-color: #343E78;
-}
-.red-sub-bg{
-  background-color: #EF464A;
-}
-.red-bg{
-  background-color: #B3363A;
-}
-/*END MAIN*/
 /*FOOTER*/
 footer div{
   margin-top: 15px;
