@@ -1,3 +1,42 @@
 .header-component {
   border: 1px dashed #f00;
 }
+/*HEADER*/
+header h3{
+  color: #57585A;
+}
+.basic-info{
+  margin-top: 25px;
+}
+
+.basic-info h4{
+  margin-top: 20px;
+  color: #818386;
+}
+.profile-picture{
+  margin-top: 10px;
+}
+.social-container{
+  margin-top: 5px;
+}
+.social b{
+  color: #57585A;
+  padding-right: 10px;
+}
+.basic-info{
+  padding-top: 5px;
+}
+.profile-picture{
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+  border: 5px solid #343E78;
+}
+.social-image{
+  width: 40px;
+  height: 40px;
+}
+.social{
+  margin-top: 7px;
+}
+/*END HEADER*/

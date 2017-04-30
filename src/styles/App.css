@@ -1,21 +1,52 @@
-/* Base Application Styles */
-body {
-  color: #fff;
-  background: #222;
+/*GENERAL*/
+body{
+  background-color: #343E78
 }
-
-.index img {
-  margin: 40px auto;
-  border-radius: 4px;
-  background: #fff;
-  display: block;
+.container{
+  background-color:#FFFFFF; 
+  margin-top: 20px;
+  margin-botton: 20px;
 }
+hr{
+  height: 2px;
+  background-color: #343e78;
+}
+h4{
+  color: #57585A;
+}
+/* END GENERAL*/
 
-.index .notice {
-  margin: 20px auto;
-  padding: 15px 0;
-  text-align: center;
-  border: 1px solid #000;
-  border-width: 1px 0;
-  background: #666;
+/*MAIN*/
+.experiences{
+  margin-top: 40px;
+}
+.progress-height{
+  height: 30px;
+}
+.skill-container{
+  margin-top: 10px;
+}
+.blue-sub-bg{
+  background-color: #12628B;
+}
+.blue-bg{
+  background-color: #343E78;
+}
+.red-sub-bg{
+  background-color: #EF464A;
+}
+.red-bg{
+  background-color: #B3363A;
+}
+/*END MAIN*/
+/*FOOTER*/
+footer div{
+  margin-top: 15px;
+}
+/*END FOOTER*/
+.about{
+   color:  #c5c6c7;
+}
+.about a{
+  color: #ffffff;
 }
