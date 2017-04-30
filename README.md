@@ -22,7 +22,7 @@ Install the dependencies and devDependencies and start the server.
 ```sh
 $ cd curriculum-react
 $ npm install -d
-$ node run
+$ node start
 ```
 
 
