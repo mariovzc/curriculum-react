@@ -16,17 +16,5 @@ export default StyleSheet.create({
   },
   'h4': {
     'color': '#57585A'
-  },
-  // END GENERAL
-  // FOOTER
-  'footer div': {
-    'marginTop': [{ 'unit': 'px', 'value': 15 }]
-  },
-  // END FOOTER
-  'about': {
-    'color': '#c5c6c7'
-  },
-  'about a': {
-    'color': '#ffffff'
   }
 });
